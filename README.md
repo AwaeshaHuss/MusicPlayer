@@ -4,7 +4,7 @@ This repository contains a basic music player application built with Flutter, ut
 
 ## Features
 
-- Play, pause, and skip tracks
+- Play, pause, and stop audio
 - Display track information (title, artist, duration, position)
 - Display album artwork
 
