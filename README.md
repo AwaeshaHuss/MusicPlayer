@@ -10,8 +10,8 @@ This repository contains a basic music player application built with Flutter, ut
 
 ## Requirements
 
-- Flutter 2.5.0 or higher
-- Dart 2.14.0 or higher
+- Flutter 3.0.0 or higher
+- Dart 2.17.0 or higher
 
 ## Getting Started
 
