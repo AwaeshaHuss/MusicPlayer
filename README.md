@@ -18,4 +18,4 @@ This repository contains a basic music player application built with Flutter, ut
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/music-player-app.git
+   https://github.com/AwaeshaHuss/MusicPlayer.git
