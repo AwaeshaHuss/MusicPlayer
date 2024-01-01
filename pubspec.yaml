@@ -1,0 +1,41 @@
+name: music_player
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  audioplayers: ^5.2.1
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  flutter_svg: ^2.0.9
+  fluttertoast: ^8.2.4
+  http: ^1.1.2
+  provider: ^6.1.1
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
+    - assets/audios/
+
+  fonts:
+    - family: Lato-Regular
+      fonts:
+        - asset: assets/fonts/Lato/Lato-Regular.ttf
+    - family: Poppins-Thin
+      fonts:
+        - asset: assets/fonts/Poppins/Poppins-Thin.ttf
+    - family: Poppins-Bold
+      fonts:
+        - asset: assets/fonts/Poppins/Poppins-Bold.ttf
